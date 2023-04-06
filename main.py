@@ -65,5 +65,3 @@ if __name__ == '__main__':
     porcEstado("exercicio4.json")
     print(strReverse("jonas"))
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
